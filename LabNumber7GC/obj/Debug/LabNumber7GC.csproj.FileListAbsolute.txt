@@ -1,0 +1,7 @@
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\obj\Debug\LabNumber7GC.csprojResolveAssemblyReference.cache
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\obj\Debug\LabNumber7GC.csproj.CoreCompileInputs.cache
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\bin\Debug\LabNumber7GC.exe.config
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\bin\Debug\LabNumber7GC.exe
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\bin\Debug\LabNumber7GC.pdb
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\obj\Debug\LabNumber7GC.exe
+c:\users\rayab\source\repos\LabNumber7GC\LabNumber7GC\obj\Debug\LabNumber7GC.pdb
